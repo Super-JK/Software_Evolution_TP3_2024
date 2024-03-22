@@ -6,3 +6,4 @@ tqdm
 scipy
 seaborn
 statsmodels
+git+https://github.com/natarajan-chidambaram/RABBIT
